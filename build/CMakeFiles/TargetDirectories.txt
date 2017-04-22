@@ -1,0 +1,1 @@
+/home/konny/git/Dona/build/CMakeFiles/dona.dir
